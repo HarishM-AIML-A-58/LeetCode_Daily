@@ -1,4 +1,5 @@
 ## Solved Problems
+- [2025-03-29 - Increasing Triplet Subsequence (Medium)](LeetCode/Medium/2025-03-29/README.md)
 - [2025-03-28 - 238. Product of Array Except Self (Medium)](LeetCode/Medium/2025-03-28/README.md)
 - [2025-03-27 - 151. Reverse Words in a String (Medium)](LeetCode/Medium/2025-03-27/README.md)
 - [2025-03-26 - 605. Can Place Flowers (Easy)](LeetCode/Easy/2025-03-26/README.md)
