@@ -1,14 +1,14 @@
 
-        # 🌟 A
+        # 🌟 Harish
 
 > 🗓 **Date:** 2025-03-31  
-> 🎯 **Difficulty:** `Easy`  
+> 🎯 **Difficulty:** `Medium`  
 > 📂 **Category:** LeetCode Solutions  
 
 ---
 
 ## 📖 Problem Statement  
-adsaasd
+asdasd
 
 ---
 
@@ -24,14 +24,14 @@ adsaasd
 
 ## 🖥️ Solution Code  
 ```python
-sadadsdas
+asasafs
 ```
 
 ---
 
 ### 🚀 **Run & Test**  
 ```bash
-python A.py
+python Harish.py
 ```
 
 ---
