@@ -1,41 +1,40 @@
 
-        # Harish
+        # 🌟 A
 
-        > Date: 2025-03-31  
-        > Difficulty: Easy  
-        > Category: LeetCode Solutions  
+> 🗓 **Date:** 2025-03-31  
+> 🎯 **Difficulty:** `Easy`  
+> 📂 **Category:** LeetCode Solutions  
 
-        ---
+---
 
-        ## Problem Statement  
-        Gasd
+## 📖 Problem Statement  
+adsaasd
 
-        ---
+---
 
-        ## Solution Approach  
-        Key Concepts Used:  
-        sd
+## 💡 Solution Approach  
+🔹 **Key Concepts Used:**  
+- Explain briefly what approach was used to solve the problem.
 
-        Complexity Analysis:  
-        - Time Complexity: asd  
-        - Space Complexity: asd  
+🔹 **Complexity Analysis:**  
+- 🕑 **Time Complexity:** O(...)  
+- 💾 **Space Complexity:** O(...)  
 
-        ---
+---
 
-        ## Solution Code  
-        ```python
-        asd
-        ```
+## 🖥️ Solution Code  
+```python
+sadadsdas
+```
 
-        ---
+---
 
-        ### Run & Test  
-        ```bash
-        python Harish.py
-        ```
+### 🚀 **Run & Test**  
+```bash
+python A.py
+```
 
-        ---
+---
 
-        ### More Solutions  
-        [Back to main README](../../README.md)
-        
+### 🔗 **More Solutions**  
+📌 [Back to main README](../../README.md)
