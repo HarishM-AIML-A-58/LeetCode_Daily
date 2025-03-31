@@ -1,7 +1,13 @@
 
-# 238. Product of Array Except Self
+# 🌟 238. Product of Array Except Self
 
-## Problem Statement
+> 📏 **Date:** 2025-03-28  
+> 🌟 **Difficulty:** `Medium`  
+> 📚 **Category:** LeetCode Solutions  
+
+---
+
+## 📚 Problem Statement  
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
 The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
@@ -29,7 +35,19 @@ The input is generated such that answer[i] is guaranteed to fit in a 32-bit inte
 
 Follow up: Can you solve the problem in O(1) extra space complexity? (The output array does not count as extra space for space complexity analysis.)
 
-## Solution
+---
+
+## 💪 Solution Approach  
+🔹 **Key Concepts Used:**  
+- Explain briefly what approach was used to solve the problem.
+
+🔹 **Complexity Analysis:**  
+- 🫠 **Time Complexity:** O(...)  
+- 📂 **Space Complexity:** O(...)  
+
+---
+
+## 🖥️ Solution Code  
 ```python
 class Solution(object):
     def productExceptSelf(self, nums):
@@ -48,3 +66,15 @@ class Solution(object):
 
         return answer
 ```
+
+---
+
+### 🚀 Run & Test  
+```bash
+python 238._Product_of_Array_Except_Self.py
+```
+
+---
+
+### 🔗 More Solutions  
+📌 [Back to main README](../../README.md)

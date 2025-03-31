@@ -1,7 +1,13 @@
 
-# Kids With the Greatest Number of Candies
+# 🌟 Kids With the Greatest Number of Candies
 
-## Problem Statement
+> 📏 **Date:** 2025-03-25  
+> 🌟 **Difficulty:** `Easy`  
+> 📚 **Category:** LeetCode Solutions  
+
+---
+
+## 📚 Problem Statement  
 There are n kids with candies. You are given an integer array candies, where each candies[i] represents the number of candies the ith kid has, and an integer extraCandies, denoting the number of extra candies that you have.
 
 Return a boolean array result of length n, where result[i] is true if, after giving the ith kid all the extraCandies, they will have the greatest number of candies among all the kids, or false otherwise.
@@ -31,7 +37,19 @@ Example 3:
 Input: candies = [12,1,12], extraCandies = 10
 Output: [true,false,true]
 
-## Solution
+---
+
+## 💪 Solution Approach  
+🔹 **Key Concepts Used:**  
+- Explain briefly what approach was used to solve the problem.
+
+🔹 **Complexity Analysis:**  
+- 🫠 **Time Complexity:** O(...)  
+- 📂 **Space Complexity:** O(...)  
+
+---
+
+## 🖥️ Solution Code  
 ```python
 class Solution(object):
     def kidsWithCandies(self, candies, extraCandies):
@@ -43,3 +61,15 @@ class Solution(object):
                 a.append(False)
         return a
 ```
+
+---
+
+### 🚀 Run & Test  
+```bash
+python Kids_With_the_Greatest_Number_of_Candies.py
+```
+
+---
+
+### 🔗 More Solutions  
+📌 [Back to main README](../../README.md)

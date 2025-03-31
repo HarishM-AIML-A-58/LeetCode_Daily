@@ -1,7 +1,13 @@
 
-# 151. Reverse Words in a String
+# 🌟 151. Reverse Words in a String
 
-## Problem Statement
+> 📏 **Date:** 2025-03-27  
+> 🌟 **Difficulty:** `Medium`  
+> 📚 **Category:** LeetCode Solutions  
+
+---
+
+## 📚 Problem Statement  
 Given an input string s, reverse the order of the words.
 
 A word is defined as a sequence of non-space characters. The words in s will be separated by at least one space.
@@ -27,7 +33,19 @@ Input: s = "a good   example"
 Output: "example good a"
 Explanation: You need to reduce multiple spaces between two words to a single space in the reversed string.
 
-## Solution
+---
+
+## 💪 Solution Approach  
+🔹 **Key Concepts Used:**  
+- Explain briefly what approach was used to solve the problem.
+
+🔹 **Complexity Analysis:**  
+- 🫠 **Time Complexity:** O(...)  
+- 📂 **Space Complexity:** O(...)  
+
+---
+
+## 🖥️ Solution Code  
 ```python
 class Solution(object):
     def reverseWords(self, s):
@@ -36,3 +54,15 @@ class Solution(object):
         b=" ".join(a)
         return b
 ```
+
+---
+
+### 🚀 Run & Test  
+```bash
+python 151._Reverse_Words_in_a_String.py
+```
+
+---
+
+### 🔗 More Solutions  
+📌 [Back to main README](../../README.md)

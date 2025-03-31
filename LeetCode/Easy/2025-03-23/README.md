@@ -1,7 +1,13 @@
 
-# 1768. Merge Strings Alternately
+# 🌟 1768. Merge Strings Alternately
 
-## Problem Statement
+> 📏 **Date:** 2025-03-23  
+> 🌟 **Difficulty:** `Easy`  
+> 📚 **Category:** LeetCode Solutions  
+
+---
+
+## 📚 Problem Statement  
 You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.
 
 Return the merged string.
@@ -33,7 +39,19 @@ word1:  a   b   c   d
 word2:    p   q 
 merged: a p b q c   d
 
-## Solution
+---
+
+## 💪 Solution Approach  
+🔹 **Key Concepts Used:**  
+- Explain briefly what approach was used to solve the problem.
+
+🔹 **Complexity Analysis:**  
+- 🫠 **Time Complexity:** O(...)  
+- 📂 **Space Complexity:** O(...)  
+
+---
+
+## 🖥️ Solution Code  
 ```python
 class Solution(object):
     def mergeAlternately(self, word1, word2):
@@ -46,5 +64,16 @@ class Solution(object):
         result += word1[length:] + word2[length:]  
 
         return result
-        
 ```
+
+---
+
+### 🚀 Run & Test  
+```bash
+python 1768._Merge_Strings_Alternately.py
+```
+
+---
+
+### 🔗 More Solutions  
+📌 [Back to main README](../../README.md)

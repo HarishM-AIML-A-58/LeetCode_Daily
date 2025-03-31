@@ -1,7 +1,13 @@
 
-# 443. String Compression
+# 🌟 443. String Compression
 
-## Problem Statement
+> 📏 **Date:** 2025-03-30  
+> 🌟 **Difficulty:** `Medium`  
+> 📚 **Category:** LeetCode Solutions  
+
+---
+
+## 📚 Problem Statement  
 Given an array of characters chars, compress it using the following algorithm:
 
 Begin with an empty string s. For each group of consecutive repeating characters in chars:
@@ -32,7 +38,19 @@ Input: chars = ["a","b","b","b","b","b","b","b","b","b","b","b","b"]
 Output: Return 4, and the first 4 characters of the input array should be: ["a","b","1","2"].
 Explanation: The groups are "a" and "bbbbbbbbbbbb". This compresses to "ab12".
 
-## Solution
+---
+
+## 💪 Solution Approach  
+🔹 **Key Concepts Used:**  
+- Explain briefly what approach was used to solve the problem.
+
+🔹 **Complexity Analysis:**  
+- 🫠 **Time Complexity:** O(...)  
+- 📂 **Space Complexity:** O(...)  
+
+---
+
+## 🖥️ Solution Code  
 ```python
 class Solution(object):
     def compress(self, chars):
@@ -52,3 +70,15 @@ class Solution(object):
                     write += 1
         return write
 ```
+
+---
+
+### 🚀 Run & Test  
+```bash
+python 443._String_Compression.py
+```
+
+---
+
+### 🔗 More Solutions  
+📌 [Back to main README](../../README.md)
