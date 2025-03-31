@@ -1,5 +1,5 @@
 
-        # 🌟 Testing 31
+        # 🌟 EFSD
 
 > 🗓 **Date:** 2025-03-31  
 > 🎯 **Difficulty:** `Easy`  
@@ -8,7 +8,7 @@
 ---
 
 ## 📖 Problem Statement  
-ASDASD
+FSD
 
 ---
 
@@ -24,14 +24,14 @@ ASDASD
 
 ## 🖥️ Solution Code  
 ```python
-SAFASD
+FDES
 ```
 
 ---
 
 ### 🚀 **Run & Test**  
 ```bash
-python Testing_31.py
+python EFSD.py
 ```
 
 ---
