@@ -11,3 +11,5 @@
 📌 **[2025-03-30]** - [443_String_Compression](LeetCode/Medium/2025-03-30/README.md) `Medium`  
 
   
+📌 **[2025-03-31]** - [283. Move Zeroes](LeetCode/Easy/2025-03-31/README.md) `Easy`
+  

@@ -67,4 +67,4 @@ python 605._Can_Place_Flowers.py
 ---
 
 ### 🔗 More Solutions  
-📌 [Back to main README](../../README.md)
+📌 [Back to main README](../../../README.md)

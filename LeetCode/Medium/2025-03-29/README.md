@@ -69,4 +69,4 @@ python Increasing_Triplet_Subsequence.py
 ---
 
 ### 🔗 More Solutions  
-📌 [Back to main README](../../README.md)
+📌 [Back to main README](../../../README.md)

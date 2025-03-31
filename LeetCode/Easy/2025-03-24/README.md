@@ -63,4 +63,4 @@ python 1071._Greatest_Common_Divisor_of_Strings.py
 ---
 
 ### 🔗 More Solutions  
-📌 [Back to main README](../../README.md)
+📌 [Back to main README](../../../README.md)

@@ -72,4 +72,4 @@ python Kids_With_the_Greatest_Number_of_Candies.py
 ---
 
 ### 🔗 More Solutions  
-📌 [Back to main README](../../README.md)
+📌 [Back to main README](../../../README.md)

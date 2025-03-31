@@ -76,4 +76,4 @@ python 1768._Merge_Strings_Alternately.py
 ---
 
 ### 🔗 More Solutions  
-📌 [Back to main README](../../README.md)
+📌 [Back to main README](../../../README.md)
