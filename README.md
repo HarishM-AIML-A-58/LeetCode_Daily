@@ -17,4 +17,5 @@
   📌 **[2025-04-03]** - [1679. Max Number of K-Sum Pairs](LeetCode/Medium/2025-04-03/README.md) `Medium`
   📌 **[2025-04-05]** - [Harish](LeetCode/Easy/2025-04-05/README.md) `Easy`
   📌 **[2025-04-05]** - [643. Maximum Average Subarray I](LeetCode/Easy/2025-04-05/README.md) `Easy`
+  📌 **[2025-04-06]** - [1456. Maximum Number of Vowels in a Substring of Given Length](LeetCode/Medium/2025-04-06/README.md) `Medium`
   
