@@ -20,4 +20,5 @@
   📌 **[2025-04-06]** - [1456. Maximum Number of Vowels in a Substring of Given Length](LeetCode/Medium/2025-04-06/README.md) `Medium`
   📌 **[2025-04-07]** - [1004. Max Consecutive Ones III](LeetCode/Medium/2025-04-07/README.md) `Medium`
   📌 **[2025-04-08]** - [1493. Longest Subarray of 1's After Deleting One Element](LeetCode/Easy/2025-04-08/README.md) `Easy`
+  📌 **[2025-04-11]** - [1732. Find the Highest Altitude](LeetCode/Easy/2025-04-11/README.md) `Easy`
   
