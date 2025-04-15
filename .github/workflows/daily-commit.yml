@@ -2,7 +2,7 @@ name: 🔁 Daily Commit
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: "30 16 * * *"  # Runs every day at midnight UTC
   workflow_dispatch:     # Allows manual run from GitHub
 
 jobs:
