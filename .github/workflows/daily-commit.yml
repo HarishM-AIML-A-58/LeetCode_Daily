@@ -1,0 +1,25 @@
+name: 🔁 Daily Commit
+
+on:
+  schedule:
+    - cron: "30 16 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:     # Allows manual run from GitHub
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 📝 Make a daily update
+        run: |
+          echo "// ⏰ $(date -u)" >> z.txt
+
+      - name: 🔃 Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "$(date -u)" || echo "No changes to commit"
+          git push
