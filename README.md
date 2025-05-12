@@ -23,3 +23,5 @@
   📌 **[2025-04-11]** - [1732. Find the Highest Altitude](LeetCode/Easy/2025-04-11/README.md) `Easy`
   📌 **[2025-05-11]** - [389. Find the Difference](LeetCode/Easy/2025-05-11/README.md) `Easy`
   
+📌 **[2025-05-12]** - [169. Majority Element](LeetCode/Easy/2025-05-12/README.md) `Easy`
+  
