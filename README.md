@@ -22,4 +22,5 @@
 📌 **[2025-05-11]** - [389. Find the Difference](LeetCode/Easy/2025-05-11/README.md) `Easy`  
   
 📌 **[2025-05-12]** - [169. Majority Element](LeetCode/Easy/2025-05-12/README.md) `Easy`
+  📌 **[2025-05-13]** - [724. Find Pivot Index](LeetCode/Easy/2025-05-13/README.md) `Easy`
   
