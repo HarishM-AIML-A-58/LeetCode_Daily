@@ -24,4 +24,5 @@
 📌 **[2025-05-12]** - [169. Majority Element](LeetCode/Easy/2025-05-12/README.md) `Easy`
   📌 **[2025-05-13]** - [724. Find Pivot Index](LeetCode/Easy/2025-05-13/README.md) `Easy`
   📌 **[2025-05-14]** - [9. Palindrome Number](LeetCode/Easy/2025-05-14/README.md) `Easy`
+  📌 **[2025-05-15]** - [2215. Find the Difference of Two Arrays](LeetCode/Easy/2025-05-15/README.md) `Easy`
   
